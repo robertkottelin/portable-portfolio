@@ -8,7 +8,7 @@ Unsupervised deep neural network to learn and detect liquidity patterns. The des
   - Link [https://github.com/robertkottelin/Competitive-cluster-neural-network]
 
 ## Environment Monitor with Controllers
-Full stack app to log and control temperature and other environment data using a Raspberry Pi and a PostgreSQL database, and display the data on a webpage with an api and Javascript/React. 
+Full stack software application that can monitor and manage environmental data such as temperature, humidity, and other metrics using a Raspberry Pi microcomputer and a PostgreSQL database. The application will be accessible via a web page or desktop application, using a Javascript/React user interface and an API for data exchange between the front-end and the back-end. The application will be considered a full-stack application, meaning it will include all layers of the software stack, from the database to the user interface.
 - ![600x200](https://via.placeholder.com/600x200)
 - Tags: Category 2
 - Badges:
@@ -17,7 +17,7 @@ Full stack app to log and control temperature and other environment data using a
   - Link [https://github.com/robertkottelin/environment-monitor]
 
 ## Decentralized Social Network
-A decentralized social network built on the Solana blockchain with Rust and Javascript.
+A decentralized social network built on the Solana blockchain with Rust and Javascript and is accessed though a web interface. The Solana blockchain serves as the backbone for the platform, and allows for secure, decentralized data storage and sharing of user data and content.
 - ![600x200](https://via.placeholder.com/600x200)
 - Tags: Category 3
 - Badges:
