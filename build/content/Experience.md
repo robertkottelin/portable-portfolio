@@ -26,3 +26,12 @@
   - Badge [blue]
 - List Items:
   - Providing consulting and freelance software development solutions across industries
+
+## Eurofins
+- *Laboratory Engineer* | Jan'18 - Feb'20
+- ![profile](../assets/profile.jpg)
+- Tags: 4
+- Badges:
+  - Badge [blue]
+- List Items:
+  - Optimizing assays and setting up robots

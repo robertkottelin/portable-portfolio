@@ -3,6 +3,7 @@ import { useState, useEffect } from "react";
 const parseExperience = (mdContent) => {
   const experience = [];
   const lines = mdContent.split("\n");
+  console.log(lines)
 
   for (let i = 0; i < lines.length; i++) {
     const line = lines[i];
@@ -44,7 +45,7 @@ const parseExperience = (mdContent) => {
       });
     }
   }
-
+  console.log(experience)
   return experience;
 };
 
