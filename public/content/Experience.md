@@ -18,7 +18,7 @@
 - List Items:
   - Management and development A3P Biomedical's Laboratory Information Management System (LIMS) and related software applications, which involved software development, project management, IT validation and accreditation, while closely collaborating with the laboratory to understand lab machines and assays.
 
-## Self-employed
+## Self-employed - Freelancing & Consulting
 - *Software developer* | Jan'22 - Currently
 - ![profile](../assets/profile.jpg)
 - Tags: 3
