@@ -1,5 +1,5 @@
-## Company 1
-- *Role* | Jan'23 - Feb'23
+## Software Engineer at Fresenius Kabi
+- *Role* | Aug'22 - Currently
 - ![logo512](../assets/logo512.png)
 - Tags: Category 1
 - Badges:
