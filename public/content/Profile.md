@@ -11,7 +11,7 @@ Welcome! I am a versatile fullstack software developer with a focus on backend d
 
 ## Contact
 Contact me at:
-- LinkedIn: https://linkedin.com/in/robertkottelin
+- LinkedIn: https://www.linkedin.com/in/robert-kottelin/
 - GitHub: https://github.com/robertkottelin
 - Email: robert.kottelin@gmail.com
 - Twitter: https://twitter.com/robertkottelin
