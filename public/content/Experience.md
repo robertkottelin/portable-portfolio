@@ -1,6 +1,6 @@
 ## Fresenius Kabi
 - *Software Engineer* | Aug'22 - Currently
-- ![logo512](../assets/fresenius.png)
+- ![profile](../assets/fresenius.png)
 - Tags: 1
 - Badges:
   - Badge [blue]
@@ -11,7 +11,7 @@
 
 ## A3P Biomedical
 - *Software Developer* | Oct'20 - Aug'22
-- ![logo512](../assets/a3p.png)
+- ![profile](../assets/a3p.png)
 - Tags: 2
 - Badges:
   - Badge [blue]
@@ -20,7 +20,7 @@
 
 ## Self-employed
 - *Software developer* | Jan'22 - Currently
-- ![logo512](../assets/profile.jpg)
+- ![profile](../assets/profile.jpg)
 - Tags: 3
 - Badges:
   - Badge [blue]
