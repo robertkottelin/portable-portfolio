@@ -1,5 +1,5 @@
 ## Site Name
-- Portable Portfolio
+- Portfolio
 
 ## Header
 - Hi, my name is Robert. 
