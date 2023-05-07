@@ -7,7 +7,7 @@
 - I build blazingly fast applications.
 
 ## About
-Domain knowledge: biotech, data science, full stack, AI.
+Domain knowledge: biotechnology, data science, full stack, AI.
 
 ## Contact
 Contact me at:
