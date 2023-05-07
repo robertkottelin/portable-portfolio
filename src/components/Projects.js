@@ -47,7 +47,7 @@ export default function Projects({ color }) {
               <Text color={`${color}.400`} fontWeight={800}>
                 03
               </Text>
-              <Text fontWeight={800}>Projects</Text>
+              <Text fontWeight={800}>Freelancing Projects</Text>
             </HStack>
             <Divider orientation="horizontal" />
           </Stack>
@@ -95,7 +95,7 @@ export default function Projects({ color }) {
             ))}
           </Stack>
           <Text color={"gray.600"} fontSize={"xl"} px={4}>
-            Other Projects
+            Other Freelancing Projects
           </Text>
           <Center px={4}>
             <ButtonGroup variant="outline">
