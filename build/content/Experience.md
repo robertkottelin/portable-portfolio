@@ -1,29 +1,28 @@
-## Software Engineer at Fresenius Kabi
-- *Role* | Aug'22 - Currently
-- ![logo512](../assets/logo512.png)
-- Tags: Category 1
+## Fresenius Kabi
+- *Software Engineer* | Aug'22 - Currently
+- ![profile](../assets/fresenius.png)
+- Tags: 1
 - Badges:
   - Badge [blue]
 - List Items:
-  - Point 1
-  - Point 2
+  - Development, validation and management of the Laboratory Information Management System at Fresenius Kabi
+  - Developing microservices to interface with laboratory instruments
+  - Project management
 
-## Company 2
-- *Role* | Feb'23 - Mar'23
-- ![logo512](../assets/logo512.png)
-- Tags: Category 2
+## A3P Biomedical
+- *Software Developer* | Oct'20 - Aug'22
+- ![profile](../assets/a3p.png)
+- Tags: 2
 - Badges:
   - Badge [blue]
 - List Items:
-  - Point 1
-  - Point 2
+  - Management and development A3P Biomedical's Laboratory Information Management System (LIMS) and related software applications, which involved software development, project management, IT validation and accreditation, while closely collaborating with the laboratory to understand lab machines and assays.
 
-## Company 3
-- *Role* | Mar'23 - Apr'23
-- ![logo512](../assets/logo512.png)
-- Tags: Category 3
+## Self-employed
+- *Software developer* | Jan'22 - Currently
+- ![profile](../assets/profile.jpg)
+- Tags: 3
 - Badges:
   - Badge [blue]
 - List Items:
-  - Point 1
-  - Point 2
+  - Providing consulting and freelance software development solutions across industries
