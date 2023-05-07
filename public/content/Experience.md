@@ -48,3 +48,4 @@
 - List Items:
   - Using React and Javascript to build and maintain an interactive web shop with payments, blog posts, messaging and notifications
   - Cloud-based serverless technology focused on elevating sales through funnels
+  
