@@ -11,9 +11,10 @@ Write your "About" section here.
 
 ## Contact
 Write your "Contact" section here.
-- LinkedIn: https://linkedin.com/in/username
-- GitHub: https://github.com/username
-- Email: username@gmail.com
+- LinkedIn: https://linkedin.com/in/robertkottelin
+- GitHub: https://github.com/robertkottelin
+- Email: robert.kottelin@gmail.com
+- Twitter: https://twitter.com/robertkottelin
 
 ## Logo
-- EB
+- RK
