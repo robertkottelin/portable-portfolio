@@ -1,5 +1,5 @@
 ## Company 1
-- *Role* | Jan'23 - Feb'23
+- *Role* | Aug'22 - Currently
 - ![logo512](../assets/logo512.png)
 - Tags: Category 1
 - Badges:
@@ -22,6 +22,16 @@
 - *Role* | Mar'23 - Apr'23
 - ![logo512](../assets/logo512.png)
 - Tags: Category 3
+- Badges:
+  - Badge [blue]
+- List Items:
+  - Point 1
+  - Point 2
+
+## Company 4
+- *Role* | Mar'23 - Apr'23
+- ![logo512](../assets/logo512.png)
+- Tags: Category 4
 - Badges:
   - Badge [blue]
 - List Items:
