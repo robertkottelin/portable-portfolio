@@ -4,13 +4,13 @@
 ## Header
 - Hi, my name is Robert. 
 - I'm a software engineer.
-- Short Description Here.
+- I build blazingly fast applications.
 
 ## About
-Write your "About" section here.
+Domain knowledge: biotech, data science, full stack, AI.
 
 ## Contact
-Write your "Contact" section here.
+Contact me at:
 - LinkedIn: https://linkedin.com/in/robertkottelin
 - GitHub: https://github.com/robertkottelin
 - Email: robert.kottelin@gmail.com
