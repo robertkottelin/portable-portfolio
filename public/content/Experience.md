@@ -29,7 +29,7 @@
 
 ## Eurofins
 - *Laboratory Engineer* | Jan'18 - Feb'20
-- ![profile](../assets/profile.jpg)
+- ![profile](../assets/eurofins.png)
 - Tags: 4
 - Badges:
   - Badge [blue]
@@ -41,7 +41,7 @@
 
 ## Flora Decora
 - *Web Developer* | Jan'16 - Feb'18
-- ![profile](../assets/profile.jpg)
+- ![profile](../assets/flower.png)
 - Tags: 5
 - Badges:
   - Badge [blue]
