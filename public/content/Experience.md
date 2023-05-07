@@ -20,7 +20,7 @@
 
 ## Self-employed
 - *Software developer* | Jan'22 - Currently
-- ![logo512](../assets/rust.png)
+- ![logo512](../assets/profile.jpg)
 - Tags: Category 3
 - Badges:
   - Badge [blue]
