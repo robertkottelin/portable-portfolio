@@ -30,7 +30,12 @@ const parseProfile = (mdContent) => {
           profile.headerDesc = lines[++i].substr(2).trim();
           break;
         case "About":
-          profile.about = lines[++i].trim();
+          let aboutContent = "";
+          while (++i < lines.length && !lines[i].startsWith("## ")) {
+            aboutContent += lines[i] + "\n";
+          }
+          profile.about = aboutContent.trim();
+          i--; // Step back one line for the next section
           break;
         case "Contact":
           profile.contact = lines[++i].trim();
