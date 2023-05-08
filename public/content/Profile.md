@@ -3,15 +3,11 @@
 
 ## Header
 - Hi, my name is Robert. 
-- I'm a software engineer.
-- I build blazingly fast applications. Fullstack Software Developer with Biotech and Data Science Expertise. I also freelance and consult, work with me now!
+- I'm a freelance software developer.
+- I build blazingly fast applications. Work with me now!
 
 ## About
-Welcome! I am a versatile fullstack software developer with a focus on backend development. With a deep understanding of multiple programming languages including Python, Rust, C#, Java and TypeScript, I am well-equipped to tackle complex projects across various industries.  
-My domain expertise lies mainly in the biotech sector, where I have honed my skills in data science and the development, implementation and maintenance of databases, servers, laboratory information management systems (LIMS), AI SaaS products, sensor logging software with controllers, and automized data processing tools. My diverse skillset also extends to the development of desktop and web applications.  
-I've managed and delivered team projects with innovative and efficient solutions tailored to the unique requirements of my clients/employers. I take pride in my ability to collaborate with diverse teams, leveraging my strong communication and problem-solving skills to ensure that projects are completed on time and within budget.  
-If you're in need of a dedicated and results-driven software developer for consulting or freelance projects, I am the perfect candidate to bring your vision to life. My passion for technology, combined with my commitment to exceeding client expectations, makes me an invaluable asset to any project.  
-Feel free to explore my portfolio to gain a deeper understanding of my past work and accomplishments. If you have any questions or would like to discuss a potential project, please do not hesitate to get in touch. I look forward to working with you and helping you achieve your goals.
+Greetings! I'm a freelance fullstack software developer with a flair for backend development. Mastering languages like Python, Rust, C#, Java, and TypeScript, I dive headfirst into complex projects, making waves across various industries. My secret sauce? A potent mix of biotech expertise, data science know-how, and a knack for developing databases, servers, laboratory information management systems (LIMS), AI SaaS products, sensor logging software with controllers, and automated data processing tools. Many of the projects brought alive as desktop and web applications! Leading teams on epic quests, I've championed innovative, efficient solutions, custom-tailored to clients' wildest dreams. My collaboration skills, crystal-clear communication, and problem-solving wizardry ensure projects are delivered on time and within budget. In search of a dedicated, results-driven software developer for consulting or freelance projects? Look no further—I'm your go-to guy for transforming visions into reality! Fueled by a passion for technology and an unyielding commitment to client satisfaction, I bring a unique zest to any project. Curious about my feats? Explore my portfolio, brimming with past work and accomplishments. Questions or project proposals brewing? Don't hesitate to get in touch. I'm eager to collaborate and help you achieve your goals—one quirky, innovative solution at a time!
 
 ## Contact
 Contact me at:
