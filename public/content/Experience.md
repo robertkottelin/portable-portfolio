@@ -5,9 +5,12 @@
 - Badges:
   - Badge [blue]
 - List Items:
-  - Development, validation and management of the Laboratory Information Management System at Fresenius Kabi
-  - Developing microservices to interface with laboratory instruments
-  - Project management
+  - Development of Laboratory Information Management System (LIMS) at Fresenius Kabi
+  - Creation of microservices for interfacing with laboratory instruments
+  - Software development for instrument integration
+  - Project management responsibilities
+  - Validation of LIMS processes and data
+  - Ensuring accreditation and compliance with industry standards
 
 ## A3P Biomedical
 - *Software Developer* | Oct'20 - Aug'22
@@ -16,7 +19,13 @@
 - Badges:
   - Badge [blue]
 - List Items:
-  - Management and development A3P Biomedical's Laboratory Information Management System (LIMS) and related software applications, which involved software development, project management, IT validation and accreditation, while closely collaborating with the laboratory to understand lab machines and assays.
+  - Management and development of A3P Biomedical's LIMS
+  - Development of related software applications
+  - Software development responsibilities
+  - Project management tasks
+  - IT validation and accreditation processes
+  - Close collaboration with laboratory teams
+  - Integration with laboratory machines and assays
 
 ## Self-employed - Freelancing & Consulting
 - *Software developer* | Jan'22 - Currently
