@@ -7,7 +7,7 @@ Simulation of evolving bacteria written in Rust. The bacteria have naturally evo
   - Link [https://github.com/robertkottelin/life-simulation]
 
 ## Blazingly fast Chat Server
-Asynchronous multithreaded chat server that handles millions of messages per minute
+Asynchronous multithreaded chat server that handles millions of messages per minute. Hooked up to a desktop client with encryption and chat rooms.
 - Tags: Category 2
 - Badges:
   - Badge [blue]
