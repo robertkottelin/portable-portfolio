@@ -7,7 +7,7 @@ Unsupervised deep neural networks to learn and detect liquidity patterns through
 - Buttons:
   - Link [https://github.com/robertkottelin/Competitive-cluster-neural-network]
 
-## Environment Monitor with Controllers (designed for a microscope)
+## Micro-Laboratory Monitor with Controllers (designed for a microscope)
 Full stack software application that can monitor and manage environmental data such as temperature, humidity, and other metrics using a Raspberry Pi microcomputer and a PostgreSQL database. The application is be accessible via a web page or desktop application, using a Javascript/React user interface and an API and message brokers for data exchange between the front-end and the back-end. Hooked up to temperature controllers, this solution can effectively monitor and control environment variables such as temperature. 
 - ![600x200](../assets/environment-monitor.png)
 - Tags: 2
