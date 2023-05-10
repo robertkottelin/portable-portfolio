@@ -101,7 +101,7 @@ export default function Projects({ color }) {
                       <Text fontSize="sm" py={2}>
                         {other.description}
                       </Text>
-
+                      
                       <HStack spacing={2}>
                         {other.buttons.map((button) => (
                           <Link
