@@ -19,9 +19,9 @@ function App() {
     <>
       <Nav color={color} />
       <Header color={color} />
-      <About color={color} />
-      <Experience color={color} />
-      <Projects color={color} />
+      {/* <About color={color} /> */}
+      {/* <Experience color={color} /> */}
+      {/* <Projects color={color} /> */}
       <Contact color={color} />
       <Footer />
     </>
